@@ -2,7 +2,7 @@ mport yfinance as yf
 
 ticker = 'AAPL'
 stock = yf.Ticker(ticker)
-stock_price = stock.info['regularMarketPrice']
+stock_price = stock.info['lastPrice']
 
 # Buy the stock
 def buy_stock(quantity):
