@@ -1,4 +1,4 @@
-mport yfinance as yf
+import yfinance as yf
 
 ticker = 'AAPL'
 stock = yf.Ticker(ticker)
