@@ -23,7 +23,5 @@ To train a model, you can use the train.py script. To test a model, you can use 
 Results
 The results of the project are shown in the results directory. This directory contains the following files:
 
-model_performance.csv: This file contains the performance of the models.
-predictions.csv: This file contains the predictions made by the models.
 Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
