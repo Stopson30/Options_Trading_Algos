@@ -25,3 +25,6 @@ The results of the project are shown in the results directory. This directory co
 
 Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+
+/////////////////////IF YOU LIKE MY PROJECT MAKE SURE TO GIFT ME WITH STARS/////////////////// IF YOU DISLIKE IT, YOU ARE MORE THAN WELCOME TO STILL STAR MY PROJECT, OR ALL OF MY PROJECTS, AND I MAY ONE DAY GIVE YOU COOKIES///////////////////
